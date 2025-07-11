@@ -12,7 +12,7 @@ The images below are all static, but they actually have dynamic effects. Please 
 下面的图片都为静态，实际有动效。具体效果请亲自体验~
 
 
-# Made with ♥ By Dos7t3r
+# Made with ♥ By Dos7t3r (with help of ChatGPT & v0.dev)
 --------------------------------------------------------------------
 ## Style1
 <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/3d998367-9482-49fa-a5e9-3994e31371ea" />
@@ -20,8 +20,11 @@ The images below are all static, but they actually have dynamic effects. Please 
 <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/e510294d-e07e-43cc-9a6f-dc9f7bd3f6cf" />
 <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/cb6dbf71-d25a-4bf6-98a3-1717c26dd930" />
 ## Style3
-<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/da556816-a0f0-482a-9ae1-7c6d5b6338b3" />
+<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/046bd558-fa24-4e16-b1a7-375895e6ac1d" />
 <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/328240ea-9353-4618-a167-786e5649e808" />
 ## Style4
 <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/08ded53d-e4ca-428f-a7cd-df3bf7ac7327" />
+## Style5 (bug)
+<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/da556816-a0f0-482a-9ae1-7c6d5b6338b3" />
+
 
