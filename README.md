@@ -31,6 +31,8 @@
 ## Style6 
 <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/207576b8-c164-4541-8c41-afc1e15f9f43" />
 <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/b7d331f4-03c5-4929-b977-367feed7516d" />
+## Style7
+<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/df120042-e1f0-44a8-8d3b-d29b3aa4f7c0" />
 
 
 
