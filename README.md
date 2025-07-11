@@ -28,5 +28,9 @@
 <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/08ded53d-e4ca-428f-a7cd-df3bf7ac7327" />
 ## Style5 (bug)
 <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/da556816-a0f0-482a-9ae1-7c6d5b6338b3" />
+## Style6 
+<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/207576b8-c164-4541-8c41-afc1e15f9f43" />
+<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/b7d331f4-03c5-4929-b977-367feed7516d" />
+
 
 
