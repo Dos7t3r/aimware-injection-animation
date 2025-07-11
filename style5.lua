@@ -1,5 +1,6 @@
 -- AIMWARE Image Intro Version
 -- 尝试使用图片替代ASCII
+-- 该版本存在Bug,无法载入图片，只会显示ASCII
 
 -- 基本配置
 local scr_x, scr_y = draw.GetScreenSize()
