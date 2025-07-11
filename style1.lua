@@ -14,7 +14,7 @@ local loading_font = draw.CreateFont("Segoe UI", math.floor(14 * scale), 400)
 
 -- 颜色
 local main_r, main_g, main_b = 227, 6, 19
-local bg_alpha = 180
+local bg_alpha = 220
 
 -- 背景ASCII logo（你的）
 local background_ASCII = {
@@ -370,7 +370,7 @@ callbacks.Register("Draw", "aw_enhanced_dual_logo_v2", function()
     local bg_logo_duration = 2.0      -- 背景logo出现（你的）
     local main_logo_duration = 2.0    -- 主logo出现（我的）
     local effects_duration = 3.0      -- 特效阶段
-    local wait_after_100 = 5.0        -- 等待时间改为5秒
+    local wait_after_100 = 3.5        -- 等待时间改为3.5秒
     local fadeout_duration = 0.8      -- 淡出时间
     
     -- 全局透明度控制
